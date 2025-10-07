@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94bb5507-6bcb-4c38-bf52-fa85e7118c68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/KNN_classifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KNN_classifier.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kNearestNeighbours.py" beforeDir="false" afterPath="$PROJECT_DIR$/kNearestNeighbours.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knn_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/knn_test.py" afterDir="false" />
-    </list>
+    <list default="true" id="94bb5507-6bcb-4c38-bf52-fa85e7118c68" name="Changes" comment="Generalising for batch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Naigo21/KNN_from_scrach.git",
+    "accountId": "998785ca-1f33-40b5-989c-4e4983774a2d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -64,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759777898227</updated>
     </task>
+    <task id="LOCAL-00001" summary="Generalising for batch">
+      <option name="closed" value="true" />
+      <created>1759838305350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759838305350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Generalising for batch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generalising for batch" />
   </component>
 </project>
